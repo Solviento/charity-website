@@ -1,0 +1,11 @@
+As a concerned citizen
+I want to be able to donate to charity
+So that I can help the animals
+
+As a concerned citizen
+I want to be able to get regular news updates
+So that I can stay current on animal welfare
+
+As a charity admin
+I want to be able to log in
+So that I can post new updates and stories
